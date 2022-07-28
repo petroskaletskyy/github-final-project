@@ -10,3 +10,7 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+
+
+## License
+[Apache license 2.0](https://www.apache.org/licenses/LICENSE-2.0)
